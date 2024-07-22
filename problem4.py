@@ -5,6 +5,6 @@ while True:
         print("Program Terminated")
         break
     elif number < 0:
-        print("Please enter a positive number.")
+        print("Please choose a positive number.")
     else:
         print(f"The binary representation of {number} is {bin(number)[2:]}")
