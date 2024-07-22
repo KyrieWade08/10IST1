@@ -13,4 +13,4 @@ else:
     X = complex(real_part, imaginary_part)
     Y = complex(real_part, -imaginary_part)
 
-print("The two value  of X are", X, "and", Y)
+print("The two values of X are", X, "and", Y)
